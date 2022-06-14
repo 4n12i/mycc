@@ -1,1 +1,2 @@
 # mycc
+My C Compiler ;)
